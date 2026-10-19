@@ -1,12 +1,12 @@
 {
-  "updated": "2026-10-19T18:25:52.453Z",
+  "updated": "2026-10-19T19:36:08.108Z",
   "plantilla": [
     {
       "id": "seed-01",
-      "name": "Jorge Editado",
+      "name": "Jorge",
       "born": "2020-05-15",
       "cat": "B",
-      "updated": "2026-10-19T18:25:52.452Z"
+      "updated": "2026-10-19T19:36:08.106Z"
     },
     {
       "id": "seed-02",
