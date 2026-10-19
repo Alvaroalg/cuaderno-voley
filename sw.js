@@ -1,4 +1,4 @@
-const C = 'voley-v5';
+const C = 'voley-v6';
 const PRECACHE = [
   './',
   './index.html',
@@ -8,7 +8,7 @@ const PRECACHE = [
   './data/ex.json',
   './data/ex_map.json',
   './data/roster_seed.json',
-  './config/plantilla.json'
+  './data/datos.json'
 ];
 
 self.addEventListener('install', (e) => {
