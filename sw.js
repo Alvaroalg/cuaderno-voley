@@ -54,10 +54,10 @@ self.addEventListener('fetch', (e) => {
     return;
   }
 
-  // 2) datos y configuracion: red primero con respaldo en cache (plantilla de GitHub)
+  // 2) datos y configuracion: red primero con respaldo en cache (datos de GitHub)
   if (url.pathname.includes('/data/') || url.pathname.includes('/config/')) {
     e.respondWith(
-      fetch(e.request)
+      fetch(e.request, { cache: 'no-store' })
         .then((res) => {
           const copy = res.clone();
           caches.open(C).then((c) => c.put(e.request, copy)).catch(() => undefined);
