@@ -1,4 +1,4 @@
-const C = 'voley-v2';
+const C = 'voley-v3';
 const PRECACHE = [
   './',
   './index.html',
@@ -18,6 +18,9 @@ self.addEventListener('activate', (e) => {
   e.waitUntil(
     caches.keys().then((keys) => Promise.all(keys.filter((k) => k !== C).map((k) => caches.delete(k)))).then(() => self.clients.claim())
   );
+});
+self.addEventListener('message', (e) => {
+  if (e.data === 'SKIP_WAITING') self.skipWaiting();
 });
 self.addEventListener('fetch', (e) => {
   const url = new URL(e.request.url);

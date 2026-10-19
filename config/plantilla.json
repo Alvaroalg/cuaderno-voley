@@ -1,0 +1,125 @@
+{
+  "updated": "2026-10-19T12:58:39.302Z",
+  "players": [
+    {
+      "id": "seed-01",
+      "name": "Jorge",
+      "born": "2020-05-15",
+      "cat": "B"
+    },
+    {
+      "id": "seed-02",
+      "name": "Elizabeth",
+      "born": "2018-02-11",
+      "cat": "B"
+    },
+    {
+      "id": "seed-03",
+      "name": "Pepe",
+      "born": "2018-01-01",
+      "cat": "B"
+    },
+    {
+      "id": "seed-04",
+      "name": "Lucía",
+      "born": "2018-01-01",
+      "cat": "B"
+    },
+    {
+      "id": "seed-05",
+      "name": "Lucía",
+      "born": "2017-12-27",
+      "cat": "B"
+    },
+    {
+      "id": "seed-06",
+      "name": "Inés",
+      "born": "2017-10-31",
+      "cat": "B"
+    },
+    {
+      "id": "seed-07",
+      "name": "Nayla",
+      "born": "2017-09-04",
+      "cat": "B"
+    },
+    {
+      "id": "seed-08",
+      "name": "Marta",
+      "born": "2017-01-01",
+      "cat": "B"
+    },
+    {
+      "id": "seed-09",
+      "name": "Lara",
+      "born": "2017-01-01",
+      "cat": "B"
+    },
+    {
+      "id": "seed-10",
+      "name": "Carlota",
+      "born": "2017-01-01",
+      "cat": "B"
+    },
+    {
+      "id": "seed-11",
+      "name": "Aníbal",
+      "born": "2016-12-19",
+      "cat": "A"
+    },
+    {
+      "id": "seed-12",
+      "name": "Alex",
+      "born": "2016-11-15",
+      "cat": "A"
+    },
+    {
+      "id": "seed-13",
+      "name": "Enzo",
+      "born": "2016-10-21",
+      "cat": "A"
+    },
+    {
+      "id": "seed-14",
+      "name": "Lucía",
+      "born": "2016-09-18",
+      "cat": "A"
+    },
+    {
+      "id": "seed-15",
+      "name": "Anelia",
+      "born": "2015-05-23",
+      "cat": "A"
+    },
+    {
+      "id": "seed-16",
+      "name": "Paula Sabina",
+      "born": "2015-04-07",
+      "cat": "A"
+    },
+    {
+      "id": "seed-17",
+      "name": "Arianna Kristen",
+      "born": "2015-03-24",
+      "cat": "A"
+    },
+    {
+      "id": "seed-18",
+      "name": "Vera",
+      "born": "2015-02-08",
+      "cat": "A"
+    },
+    {
+      "id": "seed-19",
+      "name": "Maia Sofia",
+      "born": "2015-01-01",
+      "cat": "A"
+    },
+    {
+      "id": "seed-20",
+      "name": "Clara",
+      "born": "2015-01-01",
+      "cat": "A"
+    }
+  ]
+}
